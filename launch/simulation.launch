@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find ridgeback_gazebo)/launch/ridgeback_world.launch"/>
+  <include file="$(find ridgeback_viz)/launch/view_robot.launch"/>
+</launch>
