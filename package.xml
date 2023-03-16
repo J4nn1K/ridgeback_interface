@@ -34,6 +34,8 @@
   <!-- Use depend as a shortcut for packages that are both build and exec dependencies -->
   <depend>ridgeback_gazebo</depend>
   <depend>ridgeback_viz</depend>
+  <depend>astra_camera</depend>
+  <depend>realsense2_camera</depend>
   <!--   Note that this is equivalent to the following: -->
   <!--   <build_depend>roscpp</build_depend> -->
   <!--   <exec_depend>roscpp</exec_depend> -->
