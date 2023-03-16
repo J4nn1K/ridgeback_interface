@@ -1,3 +1,15 @@
+## Intel RealSense Installation
+Install debian package:
+```bash
+sudo apt-get install ros-$ROS_DISTRO-realsense2-camera
+```
+This will install both realsense2_camera and its dependents, including librealsense2 library and matching udev-rules.
+
+Restart the computer a few times?!
+```bash
+roslaunch realsense2_camera rs_camera.launch
+```
+
 ## Orbbec Astra Installation
 Install dependencies
 ```bash
