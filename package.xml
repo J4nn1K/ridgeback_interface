@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ridgeback_interface</name>
+  <name>sensor_interfaces</name>
   <version>0.0.0</version>
-  <description>The ridgeback_interface package</description>
+  <description>The sensor_interfaces package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

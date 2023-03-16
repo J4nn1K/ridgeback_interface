@@ -1,4 +1,4 @@
 <launch>
-  <include file="$(find ridgeback_interface)/launch/astra.launch"/>
-  <include file="$(find ridgeback_interface)/launch/realsense.launch"/>
+  <include file="$(find sensor_interfaces)/launch/astra.launch"/>
+  <include file="$(find sensor_interfaces)/launch/realsense.launch"/>
 </launch>
